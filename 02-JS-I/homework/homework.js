@@ -94,7 +94,8 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
-  
+  x = 3, y = 2;
+  return x-y
 }
 
 function esPar(num) {
