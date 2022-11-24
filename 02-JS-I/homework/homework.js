@@ -37,8 +37,6 @@ function suma(x, y) {
   // Tu código:
   var suma = x + y
   return x + y;
-
-
 }
 
 function resta(x, y) {
@@ -128,7 +126,7 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  math.pow(3,3) = 27;
+  Math.pow(3,3) = 27;
 }
 
 function redondearNumero(num) {
