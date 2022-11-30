@@ -126,7 +126,7 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  Math.pow(3,3) = 27;
+  Math.pow(3,3) 
 }
 
 function redondearNumero(num) {
@@ -138,16 +138,14 @@ function redondearNumero(num) {
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  Math.ceil(6.0001) = 7;
+  Math.ceil(6.0001) 
 }
 
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
   return Math.floor(Math.random() * max);
-  console.log(getRandomInt(3));
-  console.log(getRandomInt(1));
-  console.log(Math.random());
+  
 }
 
 function esPositivo(numero) {
